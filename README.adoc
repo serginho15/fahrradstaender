@@ -2,7 +2,7 @@
 
 Im Rahmen des Projekts _Zukunftsstadt Ulm_ soll ein Netz aus flexibel aufstellbarer, eigenständiger und sichtbarer Sensorik zur Erhebung von Mobilitätsdaten aufgebaut werden. In Zusammenarbeit mit den Bürger:Innen soll dadurch ein Impuls für eine zukünftige Infrastruktur zur Datenerhebung geschaffen werden. Die von den Sensoren erfassten und anonymisierten Mobilitätsdaten sollen am Ende über die Datenplattform der Stadt Ulm für eine nachhaltige und agile Stadtplanung weiteren Nutzern zur Verfügung stehen. Die Technische Hochschule Ulm (THU) setzt das Projekt als Kooperationspartner im Themenfeld Mobilität wissenschaftlich um.
 
-Es wurde der Prototyp eines Fahrradständers entwickelt, der mithilfe von sensorgestützter Technik abgestellte Fahrräder zählt und auswertet. Auf der Grundlage von Messdaten sollen in Zukunft potentielle Fahrradstellplätze in der Stadt intelligent evaluiert werden, sodass die Entscheidung in der Stadtplanung für sinnvolle Standorte erleichtert wird. 
+Es wurde der link:Prototyp[Prototyp] eines Fahrradständers entwickelt, der mithilfe von sensorgestützter Technik abgestellte Fahrräder zählt und auswertet. Auf der Grundlage von Messdaten sollen in Zukunft potentielle Fahrradstellplätze in der Stadt intelligent evaluiert werden, sodass die Entscheidung in der Stadtplanung für sinnvolle Standorte erleichtert wird. 
 
 image::fahrradstaender.png[]
 
