@@ -8,6 +8,6 @@ image::fahrradstaender.png[]
 
 Der Prototyp basiert auf einem klassischen Bügelständer, der für den Anwendungsfall etwas modifiziert wurde. Druckschaltsensoren sind auf Gitterrosten befestigt, die in Form eines „W“ angeordnet sind. Wenn Fahrräder mit ihren Vorderrädern auf den Sensoren stehen wird eine Spannungsänderung erzeugt, die von Funkboxen detektiert und über das quelloffene Funknetzwerk LoRaWAN an ein Back-End versendet wird.
 
-Dieses Repository soll eine transparente technische Dokumentation bieten. *ACHTUNG:  Alle, die diesen Prototypen nachbauen, sind als Hersteller selbst verantwortlich. Bei Inverkehrbringung muss sicher gestellt werden, dass alle geltenden EU-Richtlinien eingehalten werden und eine CE-Kennzeichnung angebracht wird. Die THU haftet nicht für die Herstellung und Inverkehrbringung anderer.*
+Dieses Repository soll eine transparente technische Dokumentation bieten. [red]*ACHTUNG:  Alle, die diesen Prototypen nachbauen, sind als Hersteller selbst verantwortlich. Bei Inverkehrbringung muss sicher gestellt werden, dass alle geltenden EU-Richtlinien eingehalten werden und eine CE-Kennzeichnung angebracht wird. Die THU haftet nicht für die Herstellung und Inverkehrbringung anderer.*
 
 - *link:Hardware[Hardware]* +
