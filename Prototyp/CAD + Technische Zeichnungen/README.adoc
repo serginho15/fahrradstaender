@@ -2,7 +2,7 @@
 
 ## V1
 
-Im Folgenden ist das CAD-Modell der 1. Version dargestellt. Die Druckschaltleisten in der Mitte der Gitterroste und die Sensorplatte sind in rot dargestellt, wobei die Sensorplatte durch eine Blackbox ersetzt ist. Der genaue Aufbau und die Verschaltung der Sensorik ist hier beschrieben.
+Im Folgenden ist das CAD-Modell der 1. Version dargestellt. Die Druckschaltleisten in der Mitte der Gitterroste und die Sensorplatte sind in rot dargestellt, wobei die Sensorplatte nur durch eine Blackbox ersetzt ist. Der genaue Aufbau und die Verschaltung der Sensorik ist link:..[hier] beschrieben.
 
 image::CAD-Modell_Fahrradständer_V1.0.png[]
 
