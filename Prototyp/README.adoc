@@ -1,6 +1,6 @@
 # Prototyp
 
-Es gibt zwei Versionen des Prototyps: Version 1 (V1) und Version 2 (V2). Bisher wurde nur V1 aufgebaut und im Reallabor eingesetzt. V2 ist eine optimierte Version von V1 und unterscheidet sich im Wesentlichen rein konstruktiv. Die Sensorik und Datenverarbeitung sind gleich. Der Aufbau und Einsatz von V2 ist bisher nur in Planung. Die folgende Gerätebeschreibung und Technischen Daten beziehen sich auf V1.
+Es gibt zwei Versionen des Prototyps: Version 1 (V1) und Version 2 (V2). Bisher wurde nur V1 aufgebaut und im Reallabor eingesetzt. V2 ist eine optimierte Version von V1 und unterscheidet sich im Wesentlichen konstruktiv. Die Sensorik und Datenverarbeitung sind gleich. Der Aufbau und Einsatz von V2 ist bisher nur in Planung. Die folgende Gerätebeschreibung und Technischen Daten beziehen sich auf V1.
 
 ## Gerätebeschreibung
 
