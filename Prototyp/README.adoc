@@ -1,5 +1,23 @@
 # Prototyp
 
+## Gerätebeschreibung
+
+image::geraetebeschreibung.png[]
+
+### Abgebildete Komponenten
+
+1. Bügel-Fahrradständer
+2. Gitterroste
+3. Stützgabel
+4. Kabelbinder
+5. Flachstange
+6. Sensorplatte
+7. ELT-2 LoRa-Box
+8. Verlängerungsleitung (vieradrig)
+9. Kabelschutzschlauch
+10. Kabelkanal
+11. Mayser EKS 011 Miniaturdruckschaltleiste
+
 ## Technische Daten
 
 .Bügelständer
@@ -61,24 +79,6 @@
 |Schutzart
 |IP65
 |===
-
-## Gerätebeschreibung
-
-image::geraetebeschreibung.png[]
-
-### Abgebildete Komponenten
-
-1. Bügel-Fahrradständer
-2. Gitterroste
-3. Stützgabel
-4. Kabelbinder
-5. Flachstange
-6. Sensorplatte
-7. ELT-2 LoRa-Box
-8. Verlängerungsleitung (vieradrig)
-9. Kabelschutzschlauch
-10. Kabelkanal
-11. Mayser EKS 011 Miniaturdruckschaltleiste
 
 
 
