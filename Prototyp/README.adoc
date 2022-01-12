@@ -3,7 +3,7 @@
 ## Technische Daten
 
 .Bügelständer
-[cols="1,3"]
+[cols="1,2"]
 |===
 |Abmessungen
 |2772 x 510 x 903 mm (Bügelabstand: 630 mm)
